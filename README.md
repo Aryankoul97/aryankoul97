@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryankoul97&label=Profile%20views&color=0e75b6&style=flat" alt="aryankoul97" /> </p>
 
-- 🌱 I’m currently learning **Reactc,UI/UX**
+- 🌱 I’m currently learning **React,UI/UX**
 
 - 👨‍💻 All of my projects are available at [//working](//working)
 
